@@ -6,6 +6,8 @@
 
 Laravel Short Url is a package allowing you to shorten urls.
 
+testing read
+
 ## Installation
 
 With composer
