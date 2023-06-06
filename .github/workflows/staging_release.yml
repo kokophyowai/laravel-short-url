@@ -1,0 +1,6 @@
+on:
+  push:
+    branches:
+    - release/*
+  release:
+    types: ["prereleased"]
