@@ -9,6 +9,7 @@ Laravel Short Url is a package allowing you to shorten urls.
 ## Installation
 
 With composer
+ hi load
 
 ```
 composer require gallib/laravel-short-url
